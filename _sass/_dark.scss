@@ -3,15 +3,15 @@
  */
 
 :root {
-  --base-color: #839496;
-  --border: dashed 1px rgba(131, 148, 150, 0.9);
-  --selection-background: rgba(131, 148, 150, 0.99);
+  --base-color: #93a1a1;
+  --border: dashed 1px rgba(147, 161, 161, 0.9);
+  --selection-background: rgba(147, 161, 161, 0.99);
   --selection-text: #000;
   --background-color: #002a35;
   --text-color: var(--base-color);
   --placeholder-color: var(--base-color);
   --link-color: var(--base-color);
-  --code-color-1: #93a1a1;
+  --code-color-1: #839496;
   --code-color-2: #eee8d5;
   --code-color-3: #dc322f;
   --code-color-4: #d33682;
@@ -28,5 +28,5 @@
   --code-color-15: #cb4b16;
   --code-color-16: #268bd2;
   --code-color-17: #dc322f;
-  --code-color-18: #839496;
+  --code-color-18: #93a1a1;
 }
